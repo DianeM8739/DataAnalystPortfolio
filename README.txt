@@ -1,10 +1,9 @@
 Data Analyst Portfolio
 
-(* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
 
+<details>
+<summary>Dropdown</summary>
 
 Credits:
 	Dimension by HTML5 UP
@@ -19,3 +18,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+</details>
+
+
