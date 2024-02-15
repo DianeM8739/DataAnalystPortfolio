@@ -1,13 +1,13 @@
 ## Data Analyst Portfolio<br>
 <span style="font size: 8 px;">
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 Welcome to my Data Analyst Portfolio! To access the website go to the <b>Actions</b> tab > <b>pages build and deployment</b> > and click on the link under deploy.<br>
-<p align="center" width="100%">You can also just click here >>> (https://dianem8739.github.io/DataAnalystPortfolio/)</p><br><br>
-
-Hi there! 👋 I'm Diane, a passionate data analyst with a keen interest in turning raw data into actionable insights. With a background in inventory management, I specialize in leveraging data to drive strategic decision-making and solve complex business problems.<br><br>
-
-In this portfolio, you'll find a collection of my data analysis projects showcasing my expertise in data visualization, statistical analysis, and machine learning. Each project reflects my dedication to delivering high-quality analysis and driving actionable recommendations to drive business growth and innovation.<br><br>
-
+<p align="center" width="100%">You can also just click here >>> (https://dianem8739.github.io/DataAnalystPortfolio/)</p><br>
+&nbsp; &nbsp; &nbsp; &nbsp;
+Hi there! 👋 I'm Diane, a passionate data analyst with a keen interest in turning raw data into actionable insights. With a background in inventory management, I specialize in leveraging data to drive strategic decision-making and solve complex business problems.<br>
+&nbsp; &nbsp; &nbsp; &nbsp;
+In this portfolio, you'll find a collection of my data analysis projects showcasing my expertise in data visualization, statistical analysis, and machine learning. Each project reflects my dedication to delivering high-quality analysis and driving actionable recommendations to drive business growth and innovation.<br>
+&nbsp; &nbsp; &nbsp; &nbsp;
 I'm constantly learning and exploring new techniques and tools in the field of data analysis, and I'm excited to collaborate on future projects and opportunities. Feel free to reach out if you have any questions or if you'd like to connect!<br><br>
 
 <details>
