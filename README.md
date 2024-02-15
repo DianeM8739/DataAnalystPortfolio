@@ -1,7 +1,7 @@
 ## Data Analyst Portfolio<br>
 <span style="font size: 8 px;">
 &nbsp; &nbsp; &nbsp; &nbsp;
-Welcome to my Data Analyst Portfolio! To access the website go to the <b>Actions</b> tab > <b>pages build and deployment</b> > and click on the link under deploy.<br>
+Welcome to my Data Analyst Portfolio! To access the website go to the <b>Actions</b> tab > <b>pages build and deployment</b> > and click on the link under deploy.<br><br>
 <p align="center" width="100%">You can also just click here >>> (https://dianem8739.github.io/DataAnalystPortfolio/)</p><br>
 &nbsp; &nbsp; &nbsp; &nbsp;
 Hi there! 👋 I'm Diane, a passionate data analyst with a keen interest in turning raw data into actionable insights. With a background in inventory management, I specialize in leveraging data to drive strategic decision-making and solve complex business problems.<br>
