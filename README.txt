@@ -3,9 +3,10 @@ Data Analyst Portfolio
 
 
 <details>
-<summary>Dropdown</summary>
+<summary>Dropdown Menu</summary>
 
-Credits:
+### Dropdown Item 1
+- Credits:
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	
